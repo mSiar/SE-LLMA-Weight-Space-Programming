@@ -4,6 +4,8 @@ This project investigates whether learned Swedish-language characteristics can b
 
 The experiment uses small BERT models trained on English and Swedish datasets with the same architecture to examine whether weight-space analysis can distinguish language-specific learning.
 
+The experiments were conducted using Jupyter Notebook and PyTorch on CPU.
+
 Repository Contents
 
 This repository contains only the Jupyter Notebook used for the experiments.
